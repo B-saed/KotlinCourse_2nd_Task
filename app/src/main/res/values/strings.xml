@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ValidatedSigningUI</string>
+    <string name="back_button">back_button</string>
+    <string name="sign_up">Sign up</string>
+    <string name="create_your_personal_profile_com_and_follow">Create your personal profile.com and follow.</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="logo_image">logo_image</string>
+    <string name="phone_number_hint">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="email_hint">Email</string>
+    <string name="city">City</string>
+    <string name="password">Password</string>
+    <string name="sign_up_agreement_text">By signing up, you agree to the Terms of service and Privacy Policy</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sanfrancisco">Sanfrancisco</string>
+    <string name="sanfancisco">SanFancisco</string>
+    <string name="reviews">Reviews</string>
+    <string name="popular_cities">Popular Cities</string>
+    <string name="city_image">City Image</string>
+</resources>
